@@ -1,5 +1,5 @@
 # React Native Map App
-
+<img src="https://th.bing.com/th/id/OIP.BgBqJdBnRlp1o9p0ayCD7gAAAA?rs=1&pid=ImgDetMain" alt="Girl in a jacket" >
 This React Native application utilizes maps to trace routes between two locations, powered by Google Maps API. It includes an autocomplete feature for place selection and displays route information such as distance and duration.
 
 ## Table of Contents
