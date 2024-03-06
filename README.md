@@ -57,10 +57,11 @@ Enter the origin and destination places using the autocomplete inputs.
 Press the "Trace route" button to initiate route tracing.
 Confirm the destination in the modal and view the traced route on the map.
 Documentation References
-react-native-maps Documentation
-react-native-google-places-autocomplete on npm
-react-native-maps-directions on npm
-vbnet
+- [react-native-maps Documentation](https://docs.expo.dev/versions/latest/sdk/map-view/)
+- [react-native-google-places-autocomplete on npm](https://www.npmjs.com/package/react-native-google-places-autocomplete)
+- [react-native-maps-directions on npm](https://www.npmjs.com/package/react-native-maps-directions)
+
+
 
 
 This README provides a comprehensive guide for setting up, configuring, and using the React Native Map App. It also includes references to the documentation for the key dependencies used in the project.
